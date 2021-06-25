@@ -23,6 +23,12 @@ bin/
 Bin/
 obj/
 Obj/
+wwwroot/
+Properties/
+Pages/
+.config/
+.csproj
+
 
 # Visual Studio 2015 cache/options directory
 .vs/
